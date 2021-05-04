@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Simulated Open Source Communities
+title: Simulated OSS Communities
 nav_order: 5
 has_children: true
 permalink: simulated-communities
