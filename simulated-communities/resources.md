@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources
-parent: Simulated Communities
+parent: simulated communities
 nav_order: 1
 ---
 
