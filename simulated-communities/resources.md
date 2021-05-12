@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources
-parent: simulated communities
+parent: Simulated OSS Communities
 nav_order: 1
 ---
 

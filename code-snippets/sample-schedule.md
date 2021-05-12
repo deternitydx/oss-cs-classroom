@@ -2,7 +2,7 @@
 layout: default
 title: Sample Schedule
 parent: Code Snippets
-nav_order: 1
+nav_order: 2
 ---
 
 # Sample Schedule

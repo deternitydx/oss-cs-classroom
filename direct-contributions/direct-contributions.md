@@ -12,4 +12,4 @@ Programs where students contribute to existing open source code-bases involve th
 
 ## References
 
-[^fn1]: https://doi.org/10.1145/3145476
+[^fn1]: Grant Braught, John Maccormick, James Bowring, Quinn Burke, Barbara Cutler, David Goldschmidt, Mukkai Krishnamoorthy, Wesley Turner, Steven Huss-Lederman, Bonnie Mackellar, and Allen Tucker. 2018. A Multi-Institutional Perspective on H/FOSS Projects in the Computing Curriculum. *ACM Trans. Comput. Educ.* 18, 2, Article 7 (July 2018), 31 pages. https://doi.org/10.1145/3145476

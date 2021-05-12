@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Sample Schedule
-parent: simulated communities
-nav_order: 1
+parent: Simulated OSS Communities
+nav_order: 2
 ---
 
 # Sample Schedule
