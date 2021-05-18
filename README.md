@@ -2,6 +2,7 @@
 layout: default
 title: Introduction
 nav_order: 1
+permalink: /
 ---
 
 # Integrating Open Source Software in CS2 Classrooms
