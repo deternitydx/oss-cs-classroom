@@ -1,3 +1,10 @@
+---
+layout: default
+title: FAQ
+parent: Direct Contributions
+nav_order: 3
+---
+
 # Challenges & Questions
 
 ### How can instructors find suitable projects easily?

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Sample Curriculum
+parent: Direct Contributions
+nav_order: 2
+---
+
 # Sample Curriculum
 
 ## Tasks for Instructors
