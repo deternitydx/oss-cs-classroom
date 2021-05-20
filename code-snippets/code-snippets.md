@@ -8,6 +8,8 @@ permalink: code-snippets
 
 # Code Snippets from OSS
 
-Our last proposal of getting involved with OSS community does not necessitate student contribution. Instead, students could look at source files from OSS projects in the projects they are interested in, and find the chunk of codes inside that are good or bad examples of a classroom concept. Similarly, instructors could also demonstrate how certain CS topics are being used in the real-life code in their lectures. This does not stop students from learning about OSS-related topics and tools in the classroom, and instructors could still make contributing to the project an extra credit assignment for the students. 
+This model of incorporating OSS into classrooms does not necessitate student contributions. Instead, instructors can integrate selected OSS code snippets into lectures as real-life examples of textbook concepts. To aid the search for relevant applications, de França Tonhão et al. [^fn1] provide an [online repository](https://portalworkedexamples.000webhostapp.com/) with deconstructed software solutions that demonstrate CS concepts. Alternatively, more interactive strategies can be employed to engage students. For example, students can examine source codes of various OSS and analyze components that illustrate specific topics. Instructors can also extract parts of OSS and adopt them as homework assignments or programming exercises.
 
+### References
 
+[^fn1]: Simone de França Tonhão, Thelma Elita Colanzi, and Igor Steinmacher. 2020. A Portal for Cataloging Worked Examples Extracted from Open Source Software. In *Proceedings of the 34th Brazilian Symposium on Software Engineering* (Natal, Brazil) *(SBES '20).* Association for Computing Machinery, New York, NY, USA, 493-498. https://dl.acm.org/doi/10.1145/3422392.3422471
