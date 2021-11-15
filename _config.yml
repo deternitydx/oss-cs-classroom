@@ -5,6 +5,6 @@ footer_content: "By Emma Choi, Lisa Meng, John R. Hott"
 
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/deternitydx/oss-cs-classroom"
+gh_edit_repository: "https://github.com/oss-classroom/oss-cs-classroom"
 gh_edit_branch: "draft"
 gh_edit_view_mode: "tree"

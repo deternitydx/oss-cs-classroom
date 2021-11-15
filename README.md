@@ -11,7 +11,7 @@ By contributing to open source software (OSS), students can gain professional so
 
 ## Comparison of Proposed Curriculum Models
 
-| | [Direct Contributions](https://deternitydx.github.io/oss-cs-classroom/direct-contributions) | [Custom Plug-ins](https://deternitydx.github.io/oss-cs-classroom/custom-plugins) | [Simulated OSS Communities](https://deternitydx.github.io/oss-cs-classroom/simulated-communities) | [Code Snippets](https://deternitydx.github.io/oss-cs-classroom/code-snippets) |
+| | [Direct Contributions](https://oss-classroom.github.io/oss-cs-classroom/direct-contributions) | [Custom Plug-ins](https://oss-classroom.github.io/oss-cs-classroom/custom-plugins) | [Simulated OSS Communities](https://oss-classroom.github.io/oss-cs-classroom/simulated-communities) | [Code Snippets](https://oss-classroom.github.io/oss-cs-classroom/code-snippets) |
 |--|--|--|--|--|
 | Suggested Class Size | Small (less than 50 students) | Medium (less than 200 students) | Medium (less than 200 students) | No requirement |
 | Student Experience in Software Development | Proficiency in code literacy and version control systems (ex. Git) | Competency in code literacy and version control systems | Familiarity with version control systems | No requirement |

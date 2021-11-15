@@ -11,7 +11,7 @@ nav_order: 3
 * Explore various OSS and determine which set of criteria best suits classroom needs
 * Filter code repositories by language, software size, number of issues, etc.
 * Browse compiled lists of suggested OSS communities
-  * [Here is our collection of resources](https://deternitydx.github.io/oss-cs-classroom/direct-contributions/resources.html)
+  * [Here is our collection of resources](https://oss-classroom.github.io/oss-cs-classroom/direct-contributions/resources.html)
 * Reference courses from other institutions that implement OSS projects
 * Suggested readings: 
   * [Selecting open source software projects to teach software engineering](https://dl.acm.org/doi/abs/10.1145/2538862.2538932)

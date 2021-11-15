@@ -10,7 +10,7 @@ nav_order: 3
 ### How can instructors find suitable project ideas easily?
 * Students should be encouraged to exercise their creativity and brainstorm ideas according to their interests
 * Browse compiled lists of software ideas
-  * [Here is our collection of resources](https://deternitydx.github.io/oss-cs-classroom/simulated-communities/resources.html)
+  * [Here is our collection of resources](https://oss-classroom.github.io/oss-cs-classroom/simulated-communities/resources.html)
 
 ### How can a classroom community simulate an OSS development environment?
 * After building their applications, students will assume the role of OSS developers and contribute to each other's work
